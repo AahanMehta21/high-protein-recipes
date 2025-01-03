@@ -1,5 +1,5 @@
 open:
-	explorer.exe index.html
+	explorer.exe index.html || true
 
 git:
 	@read -p "Enter commit message: " msg; \
