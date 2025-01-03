@@ -1,3 +1,6 @@
+open:
+	explorer.exe index.html
+
 git:
 	@read -p "Enter commit message: " msg; \
 	git add .; \
