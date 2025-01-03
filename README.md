@@ -1,1 +1,14 @@
-# high-protein-recipes
+# High Protein Recipes Website
+
+This is the first project I created as part of **[The Odin Project's Full Stack Curriculum](https://www.theodinproject.com/)**.
+
+## About the Project
+This simple website showcases a collection of high-protein recipes sourced from Hunter Micheletto's *Shredz Macro Masterpiece Cookbook*.
+
+### Features:
+- Displays recipes with detailed information.
+- Focuses on elementary HTML skills.
+
+## Acknowledgements
+- [Hunter Micheletto](https://www.hunt4shredz.com/) for the *Shredz Macro Masterpiece Cookbook* from which the recipes and images have been taken.
+- [The Odin Project](https://www.theodinproject.com/) for the curriculum and guidance.
