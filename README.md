@@ -7,7 +7,7 @@ This simple website showcases a collection of high-protein recipes sourced from 
 
 ### Features:
 - Displays recipes with detailed information.
-- Focuses on elementary HTML skills.
+- Focuses on elementary HTML and CSS skills.
 
 ## Acknowledgements
 - [Hunter Micheletto](https://www.hunt4shredz.com/) for the *Shredz Macro Masterpiece Cookbook* from which the recipes and images have been taken.
