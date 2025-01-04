@@ -1,0 +1,30 @@
+body {
+    background-image: url("images/homepage-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-container {
+    display: flex;
+    width: 33%;
+    height: 600px;
+    padding-left: 150px;
+}
+
+.text-container {
+    display: inline-block;
+    display: flex;
+    gap: 80px;
+    background-color: white;
+    font-size: 40px;
+    padding-left: 150px;
+}
+
+h1 {
+    background-image: url(images/title-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 100px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
