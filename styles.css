@@ -63,3 +63,9 @@ ol {
     font-size: 30px;
     font-weight: 400;
 }
+
+button {
+    background-color: black;
+    color: white;
+    font-size: 30px;
+}
