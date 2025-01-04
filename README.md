@@ -14,3 +14,5 @@ This simple website showcases a collection of high-protein recipes sourced from 
 - [The Odin Project](https://www.theodinproject.com/) for the curriculum and guidance.
 
 ## [Link to Webpage](https://aahanmehta21.github.io/high-protein-recipes/)
+
+PS: It only works on desktop for now
