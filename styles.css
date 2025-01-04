@@ -1,7 +1,14 @@
-body {
+.homepage-bg {
     background-image: url("images/homepage-bg.png");
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.recipes-bg {
+    background-image: url("images/recipes-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .img-container {
@@ -27,4 +34,32 @@ h1 {
     font-size: 100px;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    color: white;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+}
+
+.recipe-column {
+    color: white;
+    font-size: 30px;
+    font-weight: 400;
+    float: left;
+    width: 50%;
+  }
+  
+  /* Clear floats after the columns */
+  .recipe-row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+ol {
+    color: white;
+    font-size: 30px;
+    font-weight: 400;
 }
