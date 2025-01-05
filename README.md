@@ -15,4 +15,4 @@ This simple website showcases a collection of high-protein recipes sourced from 
 
 ## [Link to Webpage](https://aahanmehta21.github.io/high-protein-recipes/)
 
-PS: It only works on desktop for now
+PS: It looks pretty only on desktop for now
